@@ -1,3 +1,10 @@
+
+自行编译升腾GI945 N70(32位)CPU的自定义固件。
+使用lede的源码。
+
+以下是源项目的说明
+---
+
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
